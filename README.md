@@ -1,7 +1,7 @@
 ## ¡Hola! 👋
 
 Soy Santiago y vivo en Montevideo, Uruguay.
-Actualmente estoy cursando la Licenciarura en Datos y Negocios de la Universidad Católica del Uruguay.
+Actualmente estoy cursando la Licenciatura en Datos y Negocios de la Universidad Católica del Uruguay.
 
 Mis principales intereses:
 
